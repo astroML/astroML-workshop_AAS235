@@ -8,8 +8,7 @@
 
 
 ## PRE-WORKSHOP SETUP
-Please be sure your laptop is properly configured before the workshop by following the
-[installation and setup instructions](00-Install_and_Setup).
+Please be sure that you have a GitHub account.
 
 ## Description
 
